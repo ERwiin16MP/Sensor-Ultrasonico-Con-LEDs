@@ -1,0 +1,7 @@
+Materiales
+- Arduino UNO
+- Protoboard
+- Cables Dupont
+- 6 LEDs (2 rojos, 2 amarillos y 2 verdes)
+- 6 resistenacias de 220Ω
+- Sensor Ultrasonico HC-SR04
